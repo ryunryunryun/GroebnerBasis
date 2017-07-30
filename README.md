@@ -9,4 +9,5 @@ Try this now.
 ![imggrbpnz](https://github.com/ryunryunryun/GroebnerBasis/blob/master/pic/img_grbpnz.png)
 
 ## Special Thanks
+[JFoenix](https://github.com/jfoenixadmin/JFoenix)
 [最近、妹がグレブナー基底に興味を持ち始めたのだが。](https://kakuyomu.jp/works/1177354054880542193)
